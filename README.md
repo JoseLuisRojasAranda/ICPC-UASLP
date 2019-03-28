@@ -1,2 +1,2 @@
 # ICPC-UASLP
-Practicas para el concuros ICPC
+Practicas para el concurso ICPC
